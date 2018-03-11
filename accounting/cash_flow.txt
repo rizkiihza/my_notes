@@ -15,3 +15,15 @@ cash flow is divided to three category:
         cash flow from financing activity berasal dari kegiatan yang berhubungan dengan
         long-term liability sebuah perusahaan. Seperti hutang jangka panjang atau juga
         dividend yang dibagikan kepada pemilik ekuitas.
+
+
+Perbedaan dengan income statement
+
+  -income statement didasarkan pada servis yang telah digunakan
+  -cash flow didasarkan pada aliran kas yang keluar dan masuk ke perusahaan
+
+  contoh kasus yang membedakan:
+        
+          Perusahaan A menjual barang kepada Perusahaan B di kuartal I, namun Perusahaan B baru membayar di kuartal II.
+          Penjualan ini masuk kepada income statement quartal I dari Perusahaan A sebagai account receivable. Penjualan ini
+          tidak masuk kepada cash flow perusahaan di kuartal I.
