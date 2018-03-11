@@ -1,0 +1,17 @@
+cash flow is divided to three category:
+
+  1. Cash flow from/used for operating activity
+
+        cash flow from operating itu berasal dari pendapatan perusahaan yang didapat dari operasi. 
+        Harus dalam bentuk cash. Dihitung menggunakan current asset dan current liability
+
+  2. Cash flow from/used for investing activity
+
+        cash flow from investing itu berasal dari long-term asset sebuah perusahaan.
+        Bisa berupa investasi atau juga asset-asset seperti bangunan.
+
+  3. Cash flow from/used for financing activity
+
+        cash flow from financing activity berasal dari kegiatan yang berhubungan dengan
+        long-term liability sebuah perusahaan. Seperti hutang jangka panjang atau juga
+        dividend yang dibagikan kepada pemilik ekuitas.
