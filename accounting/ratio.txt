@@ -1,0 +1,15 @@
+
+  cash ratio:
+      
+        cash ratio adalah rasio dari cash yang dimiliki sebuah perusahaan
+        dengan liabilitas perusahaan tersebut
+
+        cash ratio  =  cash / liabilitas
+
+
+  current ratio:
+        
+        current ratio adalah rasio dari aset lancar sebuah perusahaan dengan
+        liabilitas lancar perusahaan tersebut
+
+        current ratio  =  current asset / current liability
