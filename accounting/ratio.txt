@@ -4,7 +4,7 @@
         cash ratio adalah rasio dari cash yang dimiliki sebuah perusahaan
         dengan liabilitas perusahaan tersebut
 
-        cash ratio  =  cash / liabilitas
+        ### cash ratio  =  cash / liabilitas
 
 
   current ratio:
@@ -12,4 +12,53 @@
         current ratio adalah rasio dari aset lancar sebuah perusahaan dengan
         liabilitas lancar perusahaan tersebut
 
-        current ratio  =  current asset / current liability
+        ### current ratio  =  current asset / current liability
+
+  
+  working capital:
+        
+        working capital adalah indikator apakah perusahaan bisa memenuhi
+        obligasi-nya.
+
+        ### working capital  =  current asset - current liability
+
+  
+  quick ratio:
+
+        mirip dengan current ratio namun inventori, supplai, dan prepaid expenses tidak
+        dimasukan.
+
+        ### quick ratio  =  [Cash + Temp. Investment + Account Receivable] / Current liability
+
+  
+  account receivable turnover:
+
+        jumlah dalam satu tahun dimana account receivable turn over
+
+        ### account receivable turnover  =  Net Credit Sales for the Year / Average Account Receivable for the Year
+
+
+  debt to equity ratio:
+
+        proporsi dari asset yang disediakan oleh creditor dengan asset yang disediakan oleh
+        pemilik ekuitas
+
+        ### debt to equity ratio  =  Total liability / total stockholders' equity 
+  
+
+  gross margin:
+      
+        mengindikasikan persentase penjualan yang available untuk expenses dan profit'
+
+        ### gross margin  =  Gross Profit / Net Sales
+        
+
+
+  free cash flow:
+
+        Data ini menunjukan jumlah cash yang tersisa untuk operasi setelah perusahaan
+        membayar capital expenditure
+
+        ### free cash flow  =  Cash Flow Provided from Operating Activity - Capital Expenditure
+
+

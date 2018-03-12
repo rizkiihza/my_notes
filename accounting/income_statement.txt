@@ -1,0 +1,39 @@
+
+  Income Statement:
+    
+      Income statement menunjukan pendapatan yang didapat oleh perusahaan
+      dalam periode tertentu
+
+      point-poin penting:
+
+        1. Revenues
+
+            Revenues adalah segala sesuatu yang didapat dari aktivitas atau
+            dari penjualan asset yang menguntungkan
+
+            (hutang tidak termasuk revenue, meskipun terdapat aliran kas masuk)
+
+            A. Revenue from primary activity
+                
+              didapat dari operasional perusahaan, dari penjualan barang dan
+              jasa
+
+            B. Revenue from secondary activity
+
+              didapat dari non operasional perusahaan. Misal saat mendapat bunga
+              dari cash yang menganggur
+            
+
+        2. Expenses
+
+            Expenses adalah segala sesuatu yang dikeluarkan dari aktivitas atau
+            dari penjualan asset yang merugikan
+
+            A. Expenses from primary activity
+                
+              dikeluarkan dari operasional perusahaan
+
+            B. Expenses from secondary activity
+
+              Expense dari bunga 
+ 
